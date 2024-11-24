@@ -51,6 +51,8 @@ This project includes three main files:
 
 ## 🛠️ How to Use
 
+Code is provided in both `txt`, `m` and `mlx` format. GitHub cannot render the raw code in the `m` and `mlx` file, so I have included the code in plain text file `txt` for easy copy-paste.
+
 1. Open **MATLAB** (online or offline).
 2. Click **New Live Script** (for an interactive experience).
 3. Copy and paste the script of your choice.
