@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aditya-an1l/sliding_box_matlab/main/media/Logo.jfif" width="200" height="200" alt="Logo">
 <h1><b> ✨ Square Sliding on a Frictionless Surface ✨🧊  
 </b></h1>
 </div>
@@ -27,6 +26,8 @@
   </p>
 </div>
 
+
+![Sliding Box Animation](https://raw.githubusercontent.com/aditya-an1l/sliding_box_matlab/main/media/preview.gif)
 This Repository contains code for box sliding animation that demonstrates how a cube slides on a frictionless surface.
 
 ---
